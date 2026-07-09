@@ -1,3 +1,5 @@
+</> markdown
+
 # Hi, I'm Araceli <3
 
 🎓 Computer Information Systems student at Florida Gulf Coast University
